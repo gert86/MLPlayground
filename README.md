@@ -1,2 +1,2 @@
 # MLPlayground
-Examples for learning about AI from the book "Hands-on Machine Learning"
+Examples, experiments and personal notes for learning about AI using the book "Hands-on Machine Learning"
